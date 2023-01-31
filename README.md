@@ -2,6 +2,10 @@
 
 A simple project that allows users to search for photos using the Unsplash API.
 
+## Demo
+
+* live: https://gigaberdzenishvili.github.io/react-images-app/
+
 ## Features
 
 - Search photos using the Unsplash API
